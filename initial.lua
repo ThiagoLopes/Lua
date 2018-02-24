@@ -79,6 +79,7 @@ repeat
 until num == 40
 
 ---------------------- 2 Function ----------------------
+print '---------------------- 2 Function ----------------------'
 
 function fib(n)
    if n < 2 then
